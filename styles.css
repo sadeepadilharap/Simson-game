@@ -47,7 +47,12 @@ body {
     background-color: yellow;
 }
 
+.gold {
+    background-color: #FFD700;
+}
+
 .pressed {
     box-shadow: 0 0 20px white;
     background-color: grey;
 }
+
